@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "650ece81-b13c-0da6-5259-3e9da011642b",
+  "instructors": {
+    "content": [
+      "385c9acd-a3d7-e6ec-306d-36e8bbddb118",
+      "f67b045f-a616-c7b6-5e32-d48b64b8e549"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7c6c3a42-dd3f-83b5-56f5-682a4d2b907a",
+    "website": "6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002"
+  },
+  "course_title": "Techniques in Artificial Intelligence (SMA 5504)",
+  "course_description": "6.825 is a graduate-level introduction to artificial intelligence. Topics covered include: representation and inference in first-order logic, modern deterministic and decision-theoretic planning techniques, basic supervised learning methods, and Bayesian network inference and learning.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5504 (Techniques in Artificial Intelligence).\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.825",
+  "course_image_thumbnail": {
+    "content": "3fb391e9-0a29-b845-4a8a-6d8dba7e289b",
+    "website": "6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "c67d7670-784f-4db2-a445-ff5433d95640",
+  "title": "Course Metadata"
+}
