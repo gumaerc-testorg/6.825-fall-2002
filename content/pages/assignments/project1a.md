@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 1, Part A: (I Can''t Get No) Satisfaction'
 uid: d2af9fa9-a13b-5132-69cd-1ec133252f4b
@@ -18,14 +22,14 @@ SAT instances are simply statements in propositional logic, written in conjuncti
 
 (A v C v ~B) ^ (Z) ^ (~E v X v Y v W)
 
-A _satisfying assignment_ to a SAT instance is an assignment of truth values to variables that makes the CNF sentence true. If such assignment exists for a SAT instance, we say that the SAT instance is _satisfiable_. The problem of determining whether or not a particular SAT instance is satisfiable is NP-complete and thus cannot generally be solved efficiently. For a sentence of _n_ variables, it will take O(2_n_) operations to discover an assignment in the worst case - equivalent to checking every possible assignment. Many interesting AI problems are NP-complete or harder, which leads us to consider approximate methods of solution, or exact methods that have good average case running times.
+A _satisfying assignment_ to a SAT instance is an assignment of truth values to variables that makes the CNF sentence true. If such assignment exists for a SAT instance, we say that the SAT instance is _satisfiable_. The problem of determining whether or not a particular SAT instance is satisfiable is NP-complete and thus cannot generally be solved efficiently. For a sentence of _n_ variables, it will take O(2_{{< sup "n" >}}_) operations to discover an assignment in the worst case - equivalent to checking every possible assignment. Many interesting AI problems are NP-complete or harder, which leads us to consider approximate methods of solution, or exact methods that have good average case running times.
 
 **Reading: _Russell & Norvig, Chapters 4,6 (Search, Propositional Logic)_**
 
 The Code
 --------
 
-We will be providing some handy Java® classes that you can use for this assignment. We have tested it with the Java 1.3 JVM, though it should work on any Java 2 JVM (Java 1.2 and higher). We will be distributing compiled classes and source file packaged as a JAR (Java ARchive) file, as well as posting the Javadoc documentation for the classes. You should not need to look at the source to use the classes, but you can expand the jar file if you need it.
+We will be providing some handy Java{{< sup "®" >}} classes that you can use for this assignment. We have tested it with the Java 1.3 JVM, though it should work on any Java 2 JVM (Java 1.2 and higher). We will be distributing compiled classes and source file packaged as a JAR (Java ARchive) file, as well as posting the Javadoc documentation for the classes. You should not need to look at the source to use the classes, but you can expand the jar file if you need it.
 
 The jar file for this assignment is [PL.jar]({{< baseurl >}}/resources/pl), which contains a package for parsing and representing sentences of propositional logic in CNF. The [documentation](/ans7870/6/6.825/assignments/project1a/javadocs/index.html) for these classes is also available. You will need to include this JAR file in your CLASSPATH, and you will probably want to import the package with the statement import techniques.PL.\*; before the class definitions.
 
