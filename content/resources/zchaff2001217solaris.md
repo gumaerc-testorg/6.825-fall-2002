@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 resourcetype: Other
 title: zchaff2001217solaris.gz
 uid: 0f4f40c0-262b-72e9-4df6-69611bca7011

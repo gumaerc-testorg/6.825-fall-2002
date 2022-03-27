@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3336dba8-8181-7572-bb7e-bc55a526d1e8
 resourcetype: Document
 title: fall01solutions.pdf
 uid: f3d77eea-85d7-38e5-856e-6439c300a350

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 resourcetype: Other
 title: RRPC.jar
 uid: 7e788295-6b81-8f7c-bb85-42a89f939295

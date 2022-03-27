@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 resourcetype: Other
 title: FOL.jar
 uid: 5c0ef00f-c486-4af9-afef-7578011eeade

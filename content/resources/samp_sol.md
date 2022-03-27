@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3336dba8-8181-7572-bb7e-bc55a526d1e8
 resourcetype: Document
 title: samp_sol.pdf
 uid: 1a87ebe4-d451-48e2-935d-08286541119d

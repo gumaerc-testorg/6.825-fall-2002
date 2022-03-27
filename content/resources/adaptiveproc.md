@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a589034-124a-430b-2725-b1ee5581f249
 resourcetype: Document
 title: adaptiveproc.pdf
 uid: f6d5d77c-5440-b6b0-f05d-21b2f59378bd

@@ -53,20 +53,20 @@ For this assignment, we present the following SAT instances in text files. Your 
 
 **Debugging Cases:**
 
-*   [A simple satisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/satisfiable1.cnf)
-*   [A slightly more complicated satisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/satisfiable2.cnf)
-*   [A simple unsatisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/unsatisfiable1.cnf)
-*   [A slightly more complicated unsatisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/unsatisfiable2.cnf)
-*   [A solveable CNF](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/solveable.cnf) (Your code should solve this in three minutes or less. Otherwise you need to revise your code)
-*   [Solution to the solveable CNF](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/solveable.solution)
+*   [A simple satisfiable sentence]({{< baseurl >}}/resources/satisfiable1)
+*   [A slightly more complicated satisfiable sentence]({{< baseurl >}}/resources/satisfiable2)
+*   [A simple unsatisfiable sentence]({{< baseurl >}}/resources/unsatisfiable1)
+*   [A slightly more complicated unsatisfiable sentence]({{< baseurl >}}/resources/unsatisfiable2)
+*   [A solveable CNF]({{< baseurl >}}/resources/solveable-1) (Your code should solve this in three minutes or less. Otherwise you need to revise your code)
+*   [Solution to the solveable CNF]({{< baseurl >}}/resources/solveable)
 
 **Test Cases:**
 
-*   [test 1](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test1.cnf)
-*   [test 2](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test2.cnf)
-*   [test 3](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test3.cnf)
-*   [test 4](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test4.cnf)
-*   [test 5](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test5.cnf)
+*   [test 1]({{< baseurl >}}/resources/test1)
+*   [test 2]({{< baseurl >}}/resources/test2-1)
+*   [test 3]({{< baseurl >}}/resources/test3)
+*   [test 4]({{< baseurl >}}/resources/test4)
+*   [test 5]({{< baseurl >}}/resources/test5)
 
 Algorithms
 ----------

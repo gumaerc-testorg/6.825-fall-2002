@@ -26,15 +26,21 @@ Notes
 
 _(10/3)_ A new JAR file has been posted. The only difference is that it includes a class
 
+```
 techniques.solvers.DPLL
+```
 
 that you can use as your SAT solver (though you are encouraged to use your own from part a). This jarfile supercedes the previous one and you should _remove_
 
+```
 PL.jar
+```
 
 from your
 
+```
 CLASSPATH
+```
 
 .
 
@@ -43,7 +49,9 @@ _(10/2)_ Converting from a first-order logic sentence to our FOL grammar (clarif
 *   **first-order logic:** Ax, y. foo(x) -> bar(y) v Ez. ~equals(x,z)
 *   **our FOL grammar format:**
     
+    ```
     all x all y foo(x) -> bar(y) v exists z ~Equals(x,z)
+    ```
     
 
 Important Clarifications:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 resourcetype: Other
 title: zchaff2001217linux.gz
 uid: 1e484279-d52d-b2d9-0a3d-6eecb49319ef

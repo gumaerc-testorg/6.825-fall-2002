@@ -16,12 +16,12 @@ Materials
 *   The project [assignment]({{< baseurl >}}/resources/proj1c)
 *   The Resolution-Refutation Proof Checker ([JAR]({{< baseurl >}}/resources/rrpc))
 *   The project files:  
-    *   sibling.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/sibling.txt))
-    *   blocks.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/blocks.txt)) (fixed inconsistencies with 'on' predicate and 'clear' axiom)
-    *   blocks\_extracredit.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/blocks_extracredit.txt)) ('move' axiom is different than blocks.txt version)  
+    *   sibling.txt ([TXT]({{< baseurl >}}/resources/sibling))
+    *   blocks.txt ([TXT]({{< baseurl >}}/resources/blocks)) (fixed inconsistencies with 'on' predicate and 'clear' axiom)
+    *   blocks\_extracredit.txt ([TXT]({{< baseurl >}}/resources/blocks_extracredit)) ('move' axiom is different than blocks.txt version)  
          
-    *   trains1.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/trains1.txt))
-    *   trains2.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/trains2.txt))
+    *   trains1.txt ([TXT]({{< baseurl >}}/resources/trains1))
+    *   trains2.txt ([TXT]({{< baseurl >}}/resources/trains2))
 
 Announcements
 -------------
@@ -37,7 +37,9 @@ Announcements
     
     *   The file has been updated to correct the swapped arguments in the
         
+        ```
          clear
+        ```
         
         axiom. (This bug should not have actually affected your ability to do the proof, but it's fixed now.)
     
@@ -57,11 +59,15 @@ What to Turn In
          
 *   For the extra credit, in addition the proof, explain why the solution depends on having an axiom that explicitly mentions
     
+    ```
      clear(x)
+    ```
     
     after moving
     
+    ```
      x
+    ```
     
     (even though the solution to question 3 didn't depend on such a thing).
     *   Correction: don't worry about justifying the 3-argument version of the "on" predicate.

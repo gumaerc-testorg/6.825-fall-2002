@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3336dba8-8181-7572-bb7e-bc55a526d1e8
 resourcetype: Document
 title: s2001final.pdf
 uid: 52c9ab01-d285-5961-abc2-9604fde87226
