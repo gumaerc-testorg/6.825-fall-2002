@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A slightly more complicated satisfiable sentence
-file: /media/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/968d655bb3e561a96f37c80b44763dc7_satisfiable2.cnf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/968d655bb3e561a96f37c80b44763dc7_satisfiable2.cnf
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: satisfiable2.cnf
 uid: 968d655b-b3e5-61a9-6f37-c80b44763dc7
 ---
+A slightly more complicated satisfiable sentence
+

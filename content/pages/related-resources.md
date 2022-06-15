@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: e081a1e5-8ef8-3815-c311-14cb201a8a70
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 6.825: Java® Resources

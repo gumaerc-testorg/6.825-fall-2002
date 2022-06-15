@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to the solveable CNF
-file: /media/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/de8f55f7e551f0c07f866ec20a815410_solveable.solution
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/de8f55f7e551f0c07f866ec20a815410_solveable.solution
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: solveable.solution
 uid: de8f55f7-e551-f0c0-7f86-6ec20a815410
 ---
+Solution to the solveable CNF
+

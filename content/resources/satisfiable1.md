@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A simple satisfiable sentence
-file: /media/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/04fd66aee8d3b8b4f35922915998cfeb_satisfiable1.cnf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/04fd66aee8d3b8b4f35922915998cfeb_satisfiable1.cnf
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: satisfiable1.cnf
 uid: 04fd66ae-e8d3-b8b4-f359-22915998cfeb
 ---
+A simple satisfiable sentence
+

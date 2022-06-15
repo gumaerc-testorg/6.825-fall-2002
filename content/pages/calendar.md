@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: fc716960-5009-1ee3-1be1-1bf406fbd367
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \[AIMA\] = [_Artificial Intelligence: A Modern Approach (First Edition)_](http://www.cs.berkeley.edu/~russell/aima.html)

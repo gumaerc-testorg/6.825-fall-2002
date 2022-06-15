@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Test5
-file: /media/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f36eedccfa8258719f2dfdce698d12b8_test5.cnf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f36eedccfa8258719f2dfdce698d12b8_test5.cnf
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: test5.cnf
 uid: f36eedcc-fa82-5871-9f2d-fdce698d12b8
 ---
+Test5
+
