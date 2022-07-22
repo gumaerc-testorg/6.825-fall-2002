@@ -5,6 +5,7 @@ file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/96
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: satisfiable2.cnf
 uid: 968d655b-b3e5-61a9-6f37-c80b44763dc7
 ---
 A slightly more complicated satisfiable sentence
-

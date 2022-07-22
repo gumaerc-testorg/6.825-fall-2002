@@ -5,6 +5,7 @@ file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 zChaff C++ source code
-

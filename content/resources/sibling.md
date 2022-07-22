@@ -5,6 +5,7 @@ file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/53
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sibling.txt
 uid: 5305a82b-50bf-7fce-be16-cf26dc46d072
 ---
 Sibling
-

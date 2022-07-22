@@ -5,6 +5,7 @@ file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/b8
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test2.cnf
 uid: b8e84d0d-5fde-83e6-f908-5fd6ae483eac
 ---
 test2
-

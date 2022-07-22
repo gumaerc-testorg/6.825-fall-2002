@@ -5,6 +5,7 @@ file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1c
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: blocks_extracredit.txt
 uid: 1c5eac9f-4dfd-8d5f-c2ec-e6f49826ea52
 ---
 Blocks extracredit
-
