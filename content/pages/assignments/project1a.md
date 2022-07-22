@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 1, Part A: (I Can''t Get No) Satisfaction'
 uid: d2af9fa9-a13b-5132-69cd-1ec133252f4b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
   
@@ -18,22 +27,22 @@ SAT instances are simply statements in propositional logic, written in conjuncti
 
 (A v C v ~B) ^ (Z) ^ (~E v X v Y v W)
 
-A _satisfying assignment_ to a SAT instance is an assignment of truth values to variables that makes the CNF sentence true. If such assignment exists for a SAT instance, we say that the SAT instance is _satisfiable_. The problem of determining whether or not a particular SAT instance is satisfiable is NP-complete and thus cannot generally be solved efficiently. For a sentence of _n_ variables, it will take O(2_n_) operations to discover an assignment in the worst case - equivalent to checking every possible assignment. Many interesting AI problems are NP-complete or harder, which leads us to consider approximate methods of solution, or exact methods that have good average case running times.
+A _satisfying assignment_ to a SAT instance is an assignment of truth values to variables that makes the CNF sentence true. If such assignment exists for a SAT instance, we say that the SAT instance is _satisfiable_. The problem of determining whether or not a particular SAT instance is satisfiable is NP-complete and thus cannot generally be solved efficiently. For a sentence of _n_ variables, it will take O(2_{{< sup "n" >}}_) operations to discover an assignment in the worst case - equivalent to checking every possible assignment. Many interesting AI problems are NP-complete or harder, which leads us to consider approximate methods of solution, or exact methods that have good average case running times.
 
 **Reading: _Russell & Norvig, Chapters 4,6 (Search, Propositional Logic)_**
 
 The Code
 --------
 
-We will be providing some handy Java® classes that you can use for this assignment. We have tested it with the Java 1.3 JVM, though it should work on any Java 2 JVM (Java 1.2 and higher). We will be distributing compiled classes and source file packaged as a JAR (Java ARchive) file, as well as posting the Javadoc documentation for the classes. You should not need to look at the source to use the classes, but you can expand the jar file if you need it.
+We will be providing some handy Java{{< sup "®" >}} classes that you can use for this assignment. We have tested it with the Java 1.3 JVM, though it should work on any Java 2 JVM (Java 1.2 and higher). We will be distributing compiled classes and source file packaged as a JAR (Java ARchive) file, as well as posting the Javadoc documentation for the classes. You should not need to look at the source to use the classes, but you can expand the jar file if you need it.
 
-The jar file for this assignment is [PL.jar]({{< baseurl >}}/resources/pl), which contains a package for parsing and representing sentences of propositional logic in CNF. The [documentation](/ans7870/6/6.825/assignments/project1a/javadocs/index.html) for these classes is also available. You will need to include this JAR file in your CLASSPATH, and you will probably want to import the package with the statement import techniques.PL.\*; before the class definitions.
+The jar file for this assignment is {{% resource_link 647260b1-82bc-d7e3-2675-f6bedc73b241 "PL.jar" %}}, which contains a package for parsing and representing sentences of propositional logic in CNF. The [documentation](/ans7870/6/6.825/assignments/project1a/javadocs/index.html) for these classes is also available. You will need to include this JAR file in your CLASSPATH, and you will probably want to import the package with the statement import techniques.PL.\*; before the class definitions.
 
 To parse a String or a File, use the parse methods of [techniques.PL.CNF](/ans7870/6/6.825/assignments/project1a/javadocs/techniques/PL/CNF.html). The parser will only parse CNF sentences, so be sure you are entering them correctly.
 
 To generate a random 3-SAT instance, you can either call [CNF.randInstance()](/ans7870/6/6.825/assignments/project1a/javadocs/techniques/PL/CNF.html#randInstance(int)) or use the [CNF.main()](/ans7870/6/6.825/assignments/project1a/javadocs/techniques/PL/CNF.html#main(java.lang.String[])) method via the command-line.
 
-If you are new to Java, it might be useful to look at the [Java® Resources]({{< baseurl >}}/pages/related-resources) page before you get too involved with your coding. You are, of course, free to use another programming language. If you are not using Java, you will need to create a your own internal representation for a CNF boolean sentence. You will need to parse the CNF sentences given in our format, as well as create a CNF sentence generator for the experiment detailed below.
+If you are new to Java, it might be useful to look at the {{% resource_link e081a1e5-8ef8-3815-c311-14cb201a8a70 "Java® Resources" %}} page before you get too involved with your coding. You are, of course, free to use another programming language. If you are not using Java, you will need to create a your own internal representation for a CNF boolean sentence. You will need to parse the CNF sentences given in our format, as well as create a CNF sentence generator for the experiment detailed below.
 
 Tasks
 -----
@@ -49,20 +58,20 @@ For this assignment, we present the following SAT instances in text files. Your 
 
 **Debugging Cases:**
 
-*   [A simple satisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/satisfiable1.cnf)
-*   [A slightly more complicated satisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/satisfiable2.cnf)
-*   [A simple unsatisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/unsatisfiable1.cnf)
-*   [A slightly more complicated unsatisfiable sentence](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/unsatisfiable2.cnf)
-*   [A solveable CNF](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/solveable.cnf) (Your code should solve this in three minutes or less. Otherwise you need to revise your code)
-*   [Solution to the solveable CNF](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/solveable.solution)
+*   {{% resource_link 04fd66ae-e8d3-b8b4-f359-22915998cfeb "A simple satisfiable sentence" %}}
+*   {{% resource_link 968d655b-b3e5-61a9-6f37-c80b44763dc7 "A slightly more complicated satisfiable sentence" %}}
+*   {{% resource_link 0f00f1c8-c651-0c1e-1fcf-4e4703a4687f "A simple unsatisfiable sentence" %}}
+*   {{% resource_link abbfb675-0d76-d136-b66e-5b1086f7a866 "A slightly more complicated unsatisfiable sentence" %}}
+*   {{% resource_link 2271d9f9-b391-8bcf-eaf4-3c534296e1b5 "A solveable CNF" %}} (Your code should solve this in three minutes or less. Otherwise you need to revise your code)
+*   {{% resource_link de8f55f7-e551-f0c0-7f86-6ec20a815410 "Solution to the solveable CNF" %}}
 
 **Test Cases:**
 
-*   [test 1](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test1.cnf)
-*   [test 2](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test2.cnf)
-*   [test 3](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test3.cnf)
-*   [test 4](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test4.cnf)
-*   [test 5](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test5.cnf)
+*   {{% resource_link d5cbf5d4-b65d-c8ad-84d9-7e913fca250b "test 1" %}}
+*   {{% resource_link b8e84d0d-5fde-83e6-f908-5fd6ae483eac "test 2" %}}
+*   {{% resource_link c50ed476-d7eb-50c2-75cd-54439b4065ea "test 3" %}}
+*   {{% resource_link e8716647-e336-69ab-4b9d-a0e27dcd4aa5 "test 4" %}}
+*   {{% resource_link f36eedcc-fa82-5871-9f2d-fdce698d12b8 "test 5" %}}
 
 Algorithms
 ----------

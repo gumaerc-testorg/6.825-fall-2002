@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 1, Part B: Tools'
 uid: 2ceb9b1b-12cd-c3aa-054d-bf4d06429f42
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
   
@@ -11,7 +20,7 @@ zChaff
 
 zChaff is a very efficient implementation of the complete SAT solver, Chaff. zChaff takes sentences in CNF form and produces an assignment, if one exists.  
 More information about zChaff can be found at the [zChaff homepage](http://www.princeton.edu/~chaff/zchaff.html).  
-Information on the standard DIMACS CNF format can be found [here](http://logic.pdmi.ras.ru/~basolver/dimacs.html). Here is ;[one example](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test1.dimacs) ;of a CNF sentence in the DIMACS format, and here is ;[another example](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/test2.dimacs).  
+Information on the standard DIMACS CNF format can be found [here](http://logic.pdmi.ras.ru/~basolver/dimacs.html). Here is ;{{% resource_link 35c5e3dd-763e-7db5-f4bc-a0372a48c50d "one example" %}} ;of a CNF sentence in the DIMACS format, and here is ;{{% resource_link 632bd360-1f52-0e2e-fe0d-9c3f59c18b25 "another example" %}}.  
   
 To get zChaff, download one of the following files:  
 
@@ -30,7 +39,7 @@ Tested On
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[zChaff binary for Linux]({{< baseurl >}}/resources/zchaff2001217linux)
+{{% resource_link 1e484279-d52d-b2d9-0a3d-6eecb49319ef "zChaff binary for Linux" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -49,7 +58,7 @@ RedHat Linux 6.2, Debian GNU/Linux 2.4.9, Mandrake 8.0
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[zChaff binary for Solaris]({{< baseurl >}}/resources/zchaff2001217solaris)
+{{% resource_link 0f4f40c0-262b-72e9-4df6-69611bca7011 "zChaff binary for Solaris" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,7 +77,7 @@ Athena
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[zChaff C++ source code]({{< baseurl >}}/resources/zchaff2001217srctar)
+{{% resource_link 0f40483f-080d-35f3-6254-b06e7cad62ce "zChaff C++ source code" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 

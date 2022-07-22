@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 2a: Bayes Net Learning'
 uid: 408cf279-83aa-78c5-8a77-818c85c4fabd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
   
@@ -28,8 +37,8 @@ In this part, you are given the structure of a network and need to compute the c
 **Your Tasks:**
 
 *   Write a procedure for computing the estimated CPTs given a network structure and data.
-*   Test the correctness of your procedure using the network and data in [Data A](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataA.txt). The "correct" CPTs are in the file.
-*   **(Turn-in) 10 points** Compute the CPTs of the network and data in [Data B](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataB.txt).
+*   Test the correctness of your procedure using the network and data in {{% resource_link f6c8d78e-ac0b-2841-010f-b458ab1a548f "Data A" %}}. The "correct" CPTs are in the file.
+*   **(Turn-in) 10 points** Compute the CPTs of the network and data in {{% resource_link 598b0c6a-944e-d12c-99e8-96a4aed65df9 "Data B" %}}.
 
 Part 2: Computing the Score of a Network
 ----------------------------------------
@@ -41,8 +50,8 @@ We can compute the score of a network in any way we want, but a _good scoring me
 **Your Tasks:**
 
 *   Write a procedure for computing the score of a network using the scoring metric in Nilsson's chapter.
-*   Test the correctness of your procedure using the network and data [Data A](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataA.txt). The "correct" score is in the file.
-*   **(Turn-in) 10 points** Compute the score of the network and data in [Data B](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataB.txt). Please report both **|B|** and **m** seperately.
+*   Test the correctness of your procedure using the network and data {{% resource_link f6c8d78e-ac0b-2841-010f-b458ab1a548f "Data A" %}}. The "correct" score is in the file.
+*   **(Turn-in) 10 points** Compute the score of the network and data in {{% resource_link 598b0c6a-944e-d12c-99e8-96a4aed65df9 "Data B" %}}. Please report both **|B|** and **m** seperately.
 
 Part 3: Generating an Initial Network
 -------------------------------------
@@ -64,7 +73,7 @@ Note that any network you choose (here and also throughout your search) cannot h
 
 *   Write two procedures that will generate an initial network (any two of the ones mentioned above)
 *   **(Turn-in) 5 points** Describe how you've made sure that your network does not have any directed cycles
-*   **(Turn-in) 5 points** Generate two initial network for each of the two data sets: [Data A](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataA.txt) and [Data B](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataB.txt). Draw the four networks and describe how you generated them.
+*   **(Turn-in) 5 points** Generate two initial network for each of the two data sets: {{% resource_link f6c8d78e-ac0b-2841-010f-b458ab1a548f "Data A" %}} and {{% resource_link 598b0c6a-944e-d12c-99e8-96a4aed65df9 "Data B" %}}. Draw the four networks and describe how you generated them.
 
 Part 4: Searching
 -----------------
@@ -75,7 +84,7 @@ Given the initial network in Part 3, implement a local greedy search to find a _
 
 *   Write a program to do the search. You need to define a stopping criterion so that your program does not keep searching.
 *   **(Turn-in) 10 points** Explain your search algorithm well enough so that someone else can implement it (cf. Project 1a) **Note:** Please use some manner of randomization into your algorithm, either in your initialization step or in the search itself.
-*   **(Turn-in) 15 points** For one initialization method, run your program 3 times each on data in [Data A](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataA.txt) and [Data B](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/dataB.txt) to find a locally optimal network. Draw the resulting the networks (there should be 6) along with the CPTs. Do you get different results each time you run it? Why or why not?
+*   **(Turn-in) 15 points** For one initialization method, run your program 3 times each on data in {{% resource_link f6c8d78e-ac0b-2841-010f-b458ab1a548f "Data A" %}} and {{% resource_link 598b0c6a-944e-d12c-99e8-96a4aed65df9 "Data B" %}} to find a locally optimal network. Draw the resulting the networks (there should be 6) along with the CPTs. Do you get different results each time you run it? Why or why not?
 
 Part 5: Experiment
 ------------------

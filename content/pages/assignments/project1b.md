@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 1, Part B:'
 uid: ebf98cb3-3298-dfb0-6d26-ba2fb62c122a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
   
@@ -12,10 +21,10 @@ uid: ebf98cb3-3298-dfb0-6d26-ba2fb62c122a
 Materials
 ---------
 
-*   The project assignment ([PDF]({{< baseurl >}}/resources/proj1b))
-*   Code and binaries ([JAR]({{< baseurl >}}/resources/fol)) _(updated 10/13)_
+*   The project assignment ({{% resource_link 1ecafc6d-65b0-4033-d949-b3a80bbf68f3 "PDF" %}})
+*   Code and binaries ({{% resource_link 5c0ef00f-c486-4af9-afef-7578011eeade "JAR" %}}) _(updated 10/13)_
 *   [Documentation](/ans7870/6/6.825/assignments/project1b/javadocs/index.html) for the code
-*   [Information]({{< baseurl >}}/pages/assignments/project1btools) about a very efficient SAT solver called zChaff. If you like, you can also work with zChaff.
+*   {{% resource_link 2ceb9b1b-12cd-c3aa-054d-bf4d06429f42 "Information" %}} about a very efficient SAT solver called zChaff. If you like, you can also work with zChaff.
 
 Notes
 -----

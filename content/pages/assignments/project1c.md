@@ -1,23 +1,32 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c614faf8-894f-e345-14ec-83a1fd01388d
 title: 'Project 1, Part C:'
 uid: 3c469958-5d95-4ed6-a275-c7f0f8f90d23
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Materials
 ---------
 
-*   The project [assignment]({{< baseurl >}}/resources/proj1c)
-*   The Resolution-Refutation Proof Checker ([JAR]({{< baseurl >}}/resources/rrpc))
+*   The project {{% resource_link 871a5e70-9225-b644-01c9-93be774ecb31 "assignment" %}}
+*   The Resolution-Refutation Proof Checker ({{% resource_link 7e788295-6b81-8f7c-bb85-42a89f939295 "JAR" %}})
 *   The project files:  
-    *   sibling.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/sibling.txt))
-    *   blocks.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/blocks.txt)) (fixed inconsistencies with 'on' predicate and 'clear' axiom)
-    *   blocks\_extracredit.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/blocks_extracredit.txt)) ('move' axiom is different than blocks.txt version)  
+    *   sibling.txt ({{% resource_link 5305a82b-50bf-7fce-be16-cf26dc46d072 "TXT" %}})
+    *   blocks.txt ({{% resource_link 615ae1cd-8c2e-15ee-f82f-2f53899c06c3 "TXT" %}}) (fixed inconsistencies with 'on' predicate and 'clear' axiom)
+    *   blocks\_extracredit.txt ({{% resource_link 1c5eac9f-4dfd-8d5f-c2ec-e6f49826ea52 "TXT" %}}) ('move' axiom is different than blocks.txt version)  
          
-    *   trains1.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/trains1.txt))
-    *   trains2.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/assignments/trains2.txt))
+    *   trains1.txt ({{% resource_link 5adda537-5cc0-3cac-41c4-7b8fedbc23c1 "TXT" %}})
+    *   trains2.txt ({{% resource_link 05165be8-8f72-1d08-a648-f6338e142686 "TXT" %}})
 
 Announcements
 -------------
