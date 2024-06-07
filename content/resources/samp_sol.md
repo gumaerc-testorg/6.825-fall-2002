@@ -2,6 +2,7 @@
 content_type: resource
 description: Review Problems
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1a87ebe4d45148e2935d08286541119d_samp_sol.pdf
+file_size: 163522
 file_type: application/pdf
 learning_resource_types:
 - Exams

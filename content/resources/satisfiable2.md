@@ -2,6 +2,7 @@
 content_type: resource
 description: A slightly more complicated satisfiable sentence
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/968d655bb3e561a96f37c80b44763dc7_satisfiable2.cnf
+file_size: 55
 file_type: text/plain
 learning_resource_types:
 - Assignments

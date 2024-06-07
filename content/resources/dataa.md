@@ -2,6 +2,7 @@
 content_type: resource
 description: DataA
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f6c8d78eac0b2841010fb458ab1a548f_dataA.txt
+file_size: 1665
 file_type: text/plain
 learning_resource_types:
 - Assignments
