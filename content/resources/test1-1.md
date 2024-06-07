@@ -2,6 +2,7 @@
 content_type: resource
 description: test1.dimacs
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/35c5e3dd763e7db5f4bca0372a48c50d_test1.dimacs
+file_size: 74
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: What is Artificial Intelligence (AI)?
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/37cc451f7925405c3cf9274863d488ba_Lecture1Final.pdf
+file_size: 287421
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

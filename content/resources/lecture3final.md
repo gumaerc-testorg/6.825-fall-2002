@@ -2,6 +2,7 @@
 content_type: resource
 description: Logic
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/5a2344cf5fdd746421d4ab2b8bc60ee8_Lecture3Final.pdf
+file_size: 291979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

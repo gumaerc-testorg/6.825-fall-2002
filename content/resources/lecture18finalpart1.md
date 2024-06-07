@@ -2,6 +2,7 @@
 content_type: resource
 description: Learning With Hidden Variables
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/38455cca24675871c5796e67a27cf3b4_Lecture18FinalPart1.pdf
+file_size: 420131
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

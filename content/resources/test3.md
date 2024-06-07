@@ -2,6 +2,7 @@
 content_type: resource
 description: Test3
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/c50ed476d7eb50c275cd54439b4065ea_test3.cnf
+file_size: 819
 file_type: text/plain
 learning_resource_types:
 - Assignments

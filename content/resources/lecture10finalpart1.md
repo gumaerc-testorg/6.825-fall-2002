@@ -2,6 +2,7 @@
 content_type: resource
 description: Planning
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1184a975225bdbab3e3d215bf173bde1_Lecture10FinalPart1.pdf
+file_size: 759215
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

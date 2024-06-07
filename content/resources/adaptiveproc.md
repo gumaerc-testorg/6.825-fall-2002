@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f6d5d77c5440b6b0f05d21b2f59378bd_adaptiveproc.pdf
+file_size: 522503
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
