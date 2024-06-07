@@ -2,6 +2,7 @@
 content_type: resource
 description: Sibling
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/5305a82b50bf7fcebe16cf26dc46d072_sibling.txt
+file_size: 172
 file_type: text/plain
 learning_resource_types:
 - Assignments

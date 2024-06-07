@@ -2,6 +2,7 @@
 content_type: resource
 description: First-Order Logic
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/2e6d5a261d06ac45abdaa2de545b9205_Lecture5FinalPart1Save.pdf
+file_size: 882695
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

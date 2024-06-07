@@ -2,6 +2,7 @@
 content_type: resource
 description: Graph Plan
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/853671651dd845241f35527a719c55ad_Lecture12FinalPart1.pdf
+file_size: 599556
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
