@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Partial-Order Planning Algorithms
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f8443c5d1540fcd9230ebe75dc9504d7_Lecture11FinalPart1.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f8443c5d1540fcd9230ebe75dc9504d7_Lecture11FinalPart1.pdf
 file_size: 615579
 file_type: application/pdf
 learning_resource_types:

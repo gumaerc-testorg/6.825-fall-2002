@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Unstatisfiable1
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f00f1c8c6510c1e1fcf4e4703a4687f_unsatisfiable1.cnf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f00f1c8c6510c1e1fcf4e4703a4687f_unsatisfiable1.cnf
 file_size: 6
 file_type: text/plain
 learning_resource_types:
