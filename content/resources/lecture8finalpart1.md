@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resolution Theorem Proving: First Order Logic'
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/17e67a940531979f0e93adb8a5281bf1_Lecture8FinalPart1.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/17e67a940531979f0e93adb8a5281bf1_Lecture8FinalPart1.pdf
 file_size: 635041
 file_type: application/pdf
 learning_resource_types:
