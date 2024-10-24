@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm Examination
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/41c4a9deb5775015fbdf4359430177c9_solutions.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/41c4a9deb5775015fbdf4359430177c9_solutions.pdf
 file_size: 83417
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Resolution-Refutation Proof Checker
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/7e7882956b818f7cbb8542a89f939295_RRPC.jar
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/7e7882956b818f7cbb8542a89f939295_RRPC.jar
 file_size: 99056
 file_type: application/zip
 learning_resource_types:

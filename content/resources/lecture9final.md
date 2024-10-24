@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Logic Miscellanea
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/263ad85c152caf1ee707e7cb616f0c99_Lecture9Final.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/263ad85c152caf1ee707e7cb616f0c99_Lecture9Final.pdf
 file_size: 154332
 file_type: application/pdf
 learning_resource_types:
