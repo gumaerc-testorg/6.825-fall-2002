@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Exam
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/823fcce52a548cb4b5ae71de929530e4_fall01final.pdf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/823fcce52a548cb4b5ae71de929530e4_fall01final.pdf
 file_size: 96921
 file_type: application/pdf
 learning_resource_types:

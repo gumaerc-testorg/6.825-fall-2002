@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Trains2
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/05165be88f721d08a648f6338e142686_trains2.txt
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/05165be88f721d08a648f6338e142686_trains2.txt
 file_size: 1250
 file_type: text/plain
 learning_resource_types:

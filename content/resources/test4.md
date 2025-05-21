@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Test4
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/e8716647e33669ab4b9da0e27dcd4aa5_test4.cnf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/e8716647e33669ab4b9da0e27dcd4aa5_test4.cnf
 file_size: 1879
 file_type: text/plain
 learning_resource_types:
