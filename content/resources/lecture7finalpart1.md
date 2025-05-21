@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resolution Theorem Proving: Propositional Logic'
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/3439d481b8e3d5abecc1403caf1ca89d_Lecture7FinalPart1.pdf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/3439d481b8e3d5abecc1403caf1ca89d_Lecture7FinalPart1.pdf
 file_size: 809905
 file_type: application/pdf
 learning_resource_types:

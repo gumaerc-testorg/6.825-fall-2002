@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Where do Bayesian Networks Come From?
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/c0cbe6d27990cfa1c1150f25d924652b_Lecture17FinalPart1.pdf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/c0cbe6d27990cfa1c1150f25d924652b_Lecture17FinalPart1.pdf
 file_size: 439166
 file_type: application/pdf
 learning_resource_types:

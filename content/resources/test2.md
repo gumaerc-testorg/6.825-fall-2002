@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: test2.dimacs
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/632bd3601f520e2efe0d9c3f59c18b25_test2.dimacs
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/632bd3601f520e2efe0d9c3f59c18b25_test2.dimacs
 file_size: 90
 file_type: text/plain
 learning_resource_types:

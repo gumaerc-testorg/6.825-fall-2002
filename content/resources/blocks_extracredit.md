@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Blocks extracredit
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1c5eac9f4dfd8d5fc2ece6f49826ea52_blocks_extracredit.txt
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1c5eac9f4dfd8d5fc2ece6f49826ea52_blocks_extracredit.txt
 file_size: 833
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: zChaff binary for linux
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1e484279d52db2d90a3d6eecb49319ef_zchaff2001217linux.gz
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1e484279d52db2d90a3d6eecb49319ef_zchaff2001217linux.gz
 file_size: 469191
 file_type: application/x-gzip
 learning_resource_types:
