@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Final exam solutions, Fall ''01]'
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f3d77eea85d738e5856e6439c300a350_fall01solutions.pdf
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/f3d77eea85d738e5856e6439c300a350_fall01solutions.pdf
 file_size: 52470
 file_type: application/pdf
 learning_resource_types:

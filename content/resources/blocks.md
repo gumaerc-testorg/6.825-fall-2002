@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: blocks.txt
-file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/615ae1cd8c2e15eef82f2f53899c06c3_blocks.txt
+file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/615ae1cd8c2e15eef82f2f53899c06c3_blocks.txt
 file_size: 790
 file_type: text/plain
 learning_resource_types:
