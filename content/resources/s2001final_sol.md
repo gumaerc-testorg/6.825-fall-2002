@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Recitation Problems: Spring Final Solutions'
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/5c5e1349dcd636c99d211e3ce9a6f448_s2001final_sol.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/5c5e1349dcd636c99d211e3ce9a6f448_s2001final_sol.pdf
 file_size: 80534
 file_type: application/pdf
 learning_resource_types:

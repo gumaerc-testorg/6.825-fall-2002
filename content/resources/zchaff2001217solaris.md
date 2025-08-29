@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: zChaff binary for Solaris
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f4f40c0262b72e94df669611bca7011_zchaff2001217solaris.gz
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f4f40c0262b72e94df669611bca7011_zchaff2001217solaris.gz
 file_size: 163345
 file_type: application/x-gzip
 learning_resource_types:
