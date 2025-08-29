@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework 3: Solutions'
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1b0534956d6528e30a827a94e2a84ad1_solutions.pdf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1b0534956d6528e30a827a94e2a84ad1_solutions.pdf
 file_size: 138987
 file_type: application/pdf
 learning_resource_types:

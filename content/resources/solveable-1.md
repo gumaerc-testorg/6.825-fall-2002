@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A solveable CNF
-file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/2271d9f9b3918bcfeaf43c534296e1b5_solveable.cnf
+file: /ol-ocw-studio-app/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/2271d9f9b3918bcfeaf43c534296e1b5_solveable.cnf
 file_size: 1744
 file_type: text/plain
 learning_resource_types:
