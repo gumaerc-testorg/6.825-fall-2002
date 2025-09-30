@@ -24,8 +24,8 @@ Professor: Leslie Pack Kaelbling
 References
 ----------
 
-*   Textbook: Russell and Norvig. [_Artificial Intelligence: A Modern Approach (First Edition)_](http://www.cs.berkeley.edu/~russell/aima.html)
-*   Broad background resource: [AI Topics](http://aitopics.org/)
+*   Textbook: Russell and Norvig. {{% resource_link "e39b5ab1-67a7-481e-b9fe-71aac0158813" "_Artificial Intelligence: A Modern Approach (First Edition)_" %}}
+*   Broad background resource: {{% resource_link "5ca51f48-63e5-4a1f-9be2-349a4e61579d" "AI Topics" %}}
 *   Java® Resources
 
 Description
