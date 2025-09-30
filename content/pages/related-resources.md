@@ -15,11 +15,11 @@ video_metadata:
 
 ## Web Sites
 
-- The [Java Programmer's FAQ](http://www.afu.com/) is a great resource with lots of practical information
-- [IAQ: Infrequently Answered Questions](http://www.norvig.com/java-iaq.html) on Java, written by Peter Norvig
-- [Java 2 SDK Version 1.3 Documentation](http://java.sun.com/j2se/1.3/docs/index.html) (a.k.a. JDK 1.3)
-- [Java 2 SDK Version 1.2.2 Documentation](http://java.sun.com/products/archive/j2se/1.2.2_017/download-docs.html) (a.k.a. JDK 1.2.2)
-- [Java 1.1 JDK Documentation](http://java.sun.com/products/jdk/1.1/docs/index.html)
+- The {{% resource_link "6dd3f08a-6d09-433e-969d-ffa82271bf42" "Java Programmer's FAQ" %}} is a great resource with lots of practical information
+- {{% resource_link "64e36dcc-df57-4fc8-bf18-d75aada19168" "IAQ: Infrequently Answered Questions" %}} on Java, written by Peter Norvig
+- {{% resource_link "94597e8e-e5fc-4065-a542-c7cfd3aba5bc" "Java 2 SDK Version 1.3 Documentation" %}} (a.k.a. JDK 1.3)
+- {{% resource_link "737ec06a-525d-4211-88fa-4f8feacc8ffc" "Java 2 SDK Version 1.2.2 Documentation" %}} (a.k.a. JDK 1.2.2)
+- {{% resource_link "ef3d7daf-14a0-445c-ac6c-96643a1e248e" "Java 1.1 JDK Documentation" %}}
 
 ## Books
 
@@ -43,11 +43,11 @@ If you shudder at the thought of developing in Emacs or Vi, there are several fr
 
 ## Beanshell
 
-Even if you are an experienced Java programmer, you may not have heard of [Beanshell](http://www.beanshell.org/). Beanshell provides an interactive text-shell environment for evaluating Java expressions and interacting with a running JVM. This is a very useful debugging tool, as it allows you to instatiate and call methods on objects without recompiling (though you do need to restart the shell if you want to change a compiled class).
+Even if you are an experienced Java programmer, you may not have heard of {{% resource_link "dbf70937-eef9-480e-b9e1-a723adbd8258" "Beanshell" %}}. Beanshell provides an interactive text-shell environment for evaluating Java expressions and interacting with a running JVM. This is a very useful debugging tool, as it allows you to instatiate and call methods on objects without recompiling (though you do need to restart the shell if you want to change a compiled class).
 
 To install beanshell,
 
-1. Download the [JAR file](http://www.beanshell.org/bsh-1.2b6.jar)
+1. Download the {{% resource_link "ca8d45c3-993f-4f92-a746-a80175ac1a8b" "JAR file" %}}
 2. Add it to your classpath, by:
     - Placing it in the lib/ext directory of your JVM, or
     - Placing it in ~/Library/Java/Extensions on MacOS X, or
@@ -57,7 +57,7 @@ To install beanshell,
     - Typing "java bsh.Interpreter" from the command-line, or
     - Typing "java bsh.Console" to run a GUI version
 
-[More documentation](http://www.beanshell.org/docs.html) is available on the Beanshell Web site.
+{{% resource_link "1756b2df-36cd-4887-be25-dcdedee4fe27" "More documentation" %}} is available on the Beanshell Web site.
 
 ## Assorted Tips
 
